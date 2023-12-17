@@ -1,1 +1,11 @@
-[{"Hello":"ads"}]
+{
+  "nomi": "John Doe",
+  "yoshi": 30,
+  "tillar": ["Ingliz", "Ispan", "Fransuz"],
+  "manzili": {
+    "shahar": "Toshkent",
+    "tuman": "Mirobod",
+    "ko'cha": "Mustaqillik"
+  },
+  "talablar": true
+}
